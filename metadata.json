@@ -2,6 +2,6 @@
   "name": "nodeup-vmi1739864",
   "website": "https://nodeup.xyz",
   "description": "Genesis node operator",
-  "logo": "",
+  "logo": "https://raw.githubusercontent.com/nodeup-xyz/eigenlayer-testnet/main/logo.png",
   "twitter": "https://twitter.com/nodeup_xyz"
 }
